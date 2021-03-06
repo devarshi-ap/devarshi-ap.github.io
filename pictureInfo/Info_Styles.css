@@ -1,0 +1,198 @@
+body {
+    background-color: #f3f3f3;
+}
+
+.title {
+    font-family: Perpetua;
+    color: #5d645f;
+    font-size: 60px;
+    transform: translate(8%, 20%);
+}
+
+.subtitle {
+    transform: translate(0%, -80%);
+}
+
+.photo {
+    width: 35%;
+    height: auto;
+    transform: translate(40%,00%);
+    padding: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+    -moz-box-shadow: rgba(0,0,0,0.3) 0 1px 3px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 10px;
+}
+
+.content {
+    max-width: 540px;
+    font-size: 22px;
+    font-family: courier;
+    letter-spacing: 2.5px;
+    line-height: 1.45em;
+    text-align: justify;
+    transform: translate(150%, -112%);
+}
+
+
+
+/*Al Khazneh*/
+#khazneh_content {
+    font-size: 23px;
+    transform: translate(145%, -120%);
+}
+
+#khazneh_img {
+    width: 42%;
+    height: auto;
+    transform: translate(20%, 5%)
+}
+
+/*Andromeda*/
+#andromeda_content {
+    font-size: 19px;
+    max-width: 1050px;
+    transform: translate(16%, 15%);
+    margin-bottom: 100px;
+}
+
+#andromeda_img {
+    width: 70%;
+    height: auto;
+    transform: translate(20%, 0%);
+}
+
+/*Buddha*/
+#buddha_content {
+    font-size: 18px;
+    transform: translate(140%, -110%);
+}
+
+/*Central Park*/
+#central_park_content {
+    font-size: 19px;
+    transform: translate(145%, -120%);
+}
+
+#central_park_img {
+    width: 42%;
+    height: auto;
+    transform: translate(20%, 5%)
+}
+
+/*Christ The Redeemer*/
+#christ_content {
+    font-size: 16px;
+    transform: translate(140%, -120%);
+}
+
+/*Dyrholaey*/
+#dyrholaey_content {
+    font-size: 19px;
+    transform: translate(150%, -125%);
+}
+
+#dyrholaey_img {
+    width: 50%;
+    height: auto;
+    transform: translate(10%, 0%)
+}
+
+/*Golden Gate Bridge*/
+#golden_gate_content {
+    font-size: 19px;
+    transform: translate(145%, -120%);
+}
+
+#golden_gate_img {
+    width: 42%;
+    height: auto;
+    transform: translate(20%, 5%)
+}
+
+/*Jean-Michael Basquiat*/
+#jean_content {
+    font-size: 16px;
+    transform: translate(140%, -110%);
+}
+
+/*Joseph Lee*/
+#joseph_content {
+    font-size: 20px;
+    transform: translate(140%, -115%);
+}
+
+/*Red Mineral Temple*/
+#red_temple_content {
+    font-size: 22px;
+    transform: translate(140%, -120%);
+}
+
+#red_temple_img {
+    width: 42%;
+    height: auto;
+    transform: translate(20%, 5%)
+}
+
+/*Kerry*/
+#kerry_content {
+    font-size: 22px;
+    transform: translate(145%, -110%);
+}
+
+#kerry_img {
+    width: 42%;
+    height: auto;
+    transform: translate(20%, 5%)
+}
+
+/*Lauterbrunnen*/
+#lauterbrunnen_content {
+    font-size: 22px;
+    transform: translate(145%, -110%);
+}
+
+#lauterbrunnen_img {
+    width: 42%;
+    height: auto;
+    transform: translate(20%, 5%)
+}
+
+/*Osaka*/
+#osaka_content {
+    font-size: 19px;
+    max-width: 1050px;
+    transform: translate(16%, 15%);
+    margin-bottom: 100px;
+}
+
+#osaka_img {
+    width: 70%;
+    height: auto;
+    transform: translate(20%, 0%);
+}
+
+/*Fuji*/
+#fuji_content {
+    font-size: 18px;
+    transform: translate(152%, -110%);
+    margin-bottom: 100px;
+}
+
+#fuji_img {
+    width: 45%;
+    height: auto;
+    transform: translate(20%, 0%);
+}
+
+/*Trevi Fountain*/
+#trevi_content {
+    font-size: 21px;
+    transform: translate(152%, -120%);
+}
+
+#trevi_img {
+    width: 45%;
+    height: auto;
+    transform: translate(20%, 0%);
+}
